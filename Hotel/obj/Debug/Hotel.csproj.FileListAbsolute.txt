@@ -1,0 +1,14 @@
+E:\Koce\CV;;Projects;;Ideas\Projects\C# Forms\Hotel\Hotel\bin\Debug\Hotel.exe.config
+E:\Koce\CV;;Projects;;Ideas\Projects\C# Forms\Hotel\Hotel\bin\Debug\Hotel.exe
+E:\Koce\CV;;Projects;;Ideas\Projects\C# Forms\Hotel\Hotel\bin\Debug\Hotel.pdb
+E:\Koce\CV;;Projects;;Ideas\Projects\C# Forms\Hotel\Hotel\obj\Debug\Hotel.csproj.AssemblyReference.cache
+E:\Koce\CV;;Projects;;Ideas\Projects\C# Forms\Hotel\Hotel\obj\Debug\Hotel.Form1.resources
+E:\Koce\CV;;Projects;;Ideas\Projects\C# Forms\Hotel\Hotel\obj\Debug\Hotel.Form2.resources
+E:\Koce\CV;;Projects;;Ideas\Projects\C# Forms\Hotel\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+E:\Koce\CV;;Projects;;Ideas\Projects\C# Forms\Hotel\Hotel\obj\Debug\Hotel.csproj.GenerateResource.cache
+E:\Koce\CV;;Projects;;Ideas\Projects\C# Forms\Hotel\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+E:\Koce\CV;;Projects;;Ideas\Projects\C# Forms\Hotel\Hotel\obj\Debug\Hotel.exe
+E:\Koce\CV;;Projects;;Ideas\Projects\C# Forms\Hotel\Hotel\obj\Debug\Hotel.pdb
+E:\Koce\CV;;Projects;;Ideas\Projects\C# Forms\Hotel\Hotel\obj\Debug\Hotel.Form3.resources
+E:\Koce\CV;;Projects;;Ideas\Projects\C# Forms\Hotel\Hotel\obj\Debug\Hotel.Form4.resources
+E:\Koce\CV;;Projects;;Ideas\Projects\C# Forms\Hotel\Hotel\obj\Debug\Hotel.Form5.resources
